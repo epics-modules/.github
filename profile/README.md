@@ -14,4 +14,5 @@ Please look inside their repositories for contribution guidelines.
 ### Adding your own module
 Please create an issue in your module,
 mentioning the responsibles of the EPICS-Modules organization.
-(You can use the text `@epics-modules/admins` to achieve that.)
+(You can use the text `@epics-modules/admins` to reach a handful
+and/or mention other teams or people.)
